@@ -16,7 +16,8 @@ class CountingSort(object):
 
         cnt = list(accumulate(cnt))
         tmp = [0] * len(a)
-        for i, v in enumerate(a):
+        # 从后向前遍历，保证了排序的稳定性
+        for i, v in enumerate(reversed(a)):
             v_idx = self.index_from_char(v)
             # 从累加结果中获得 index
             index = cnt[v_idx] - 1

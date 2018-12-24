@@ -15,7 +15,10 @@ class MergeSort_1(object):
     def merge_sort(self, array, low, high):
         if low >= high:
             return
-        mid = (low + high) // 2
+        # low + high，如果 low 和 high 都比较大时，可能溢出
+        mid = low + (high - low) // 2
+        # 除以 2 也可以用位操作，右移 n 位，相当于除以 2**n
+        # mid = low + (high - low) >> 1
         self.merge_sort(array, low, mid)
         self.merge_sort(array, mid + 1, high)
 

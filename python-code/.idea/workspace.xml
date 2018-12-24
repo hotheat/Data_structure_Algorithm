@@ -2,6 +2,7 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/09_deque/linked_deque.py" line="46" />
+    <bookmark url="file://$PROJECT_DIR$/13_sorts/char_num_sort.py" line="35" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a32f9888-6079-46d6-93e7-97f033f10533" name="Default" comment="" />
@@ -14,13 +15,17 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_code$py_test_in_sort_py.coverage" NAME="py.test in sort_fn.py Coverage Results" MODIFIED="1545101132805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$char_num_sort.coverage" NAME="char_num_sort Coverage Results" MODIFIED="1545532135646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$char_num_sort.coverage" NAME="char_num_sort Coverage Results" MODIFIED="1545655753873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$newton_sqrt.coverage" NAME="newton_sqrt Coverage Results" MODIFIED="1545660562578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
     <SUITE FILE_PATH="coverage/python_code$sortOnlogn__1_.coverage" NAME="sortOnlogn (1) Coverage Results" MODIFIED="1545287523591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_sorts" />
     <SUITE FILE_PATH="coverage/python_code$largest_k_number.coverage" NAME="largest_k_number Coverage Results" MODIFIED="1545527727002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_sorts" />
     <SUITE FILE_PATH="coverage/python_code$py_test_for_sort_test.coverage" NAME="py.test for sort.test Coverage Results" MODIFIED="1545100861298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$bsearch_sqrt.coverage" NAME="bsearch_sqrt Coverage Results" MODIFIED="1545660169843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
     <SUITE FILE_PATH="coverage/python_code$utils.coverage" NAME="utils Coverage Results" MODIFIED="1545277616569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/python_code$Nosetests_in_sort_O1_py.coverage" NAME="Nosetests in sort_O1.py Coverage Results" MODIFIED="1545101364229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$bsearch_rec.coverage" NAME="bsearch_rec Coverage Results" MODIFIED="1545657136957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
     <SUITE FILE_PATH="coverage/python_code$sortOnlogn.coverage" NAME="sortOnlogn Coverage Results" MODIFIED="1545285482536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$bsearch.coverage" NAME="bsearch Coverage Results" MODIFIED="1545655958820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
     <SUITE FILE_PATH="coverage/code$py_test_in_array_op_py.coverage" NAME="py.test in array_op.py Coverage Results" MODIFIED="1544756459515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_array" />
     <SUITE FILE_PATH="coverage/python_code$circle_deque.coverage" NAME="circle_deque Coverage Results" MODIFIED="1544851748019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
     <SUITE FILE_PATH="coverage/code$array_deque.coverage" NAME="array_deque Coverage Results" MODIFIED="1544767783844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
@@ -28,7 +33,7 @@
     <SUITE FILE_PATH="coverage/python_code$Nosetests_for_sort_O1_test_sort.coverage" NAME="Nosetests for sort_O1.test_sort Coverage Results" MODIFIED="1545101398510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/python_code$linked_deque.coverage" NAME="linked_deque Coverage Results" MODIFIED="1545100995016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
     <SUITE FILE_PATH="coverage/python_code$sort_On2.coverage" NAME="sort_On2 Coverage Results" MODIFIED="1545278615188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$sort_On.coverage" NAME="sort_On Coverage Results" MODIFIED="1545531972565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$sort_On.coverage" NAME="sort_On Coverage Results" MODIFIED="1545655938946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
     <SUITE FILE_PATH="coverage/python_code$sort_O1.coverage" NAME="sort_O1 Coverage Results" MODIFIED="1545111326141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/code$simple_browser.coverage" NAME="simple_browser Coverage Results" MODIFIED="1544766548818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_stack" />
     <SUITE FILE_PATH="coverage/code$linked_stack.coverage" NAME="linked_stack Coverage Results" MODIFIED="1544766969456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_stack" />
@@ -38,11 +43,47 @@
       <file leaf-file-name="sortOnlogn.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12_sorts/sortOnlogn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="224" selection-start-line="185" selection-end-line="224" />
+            <state relative-caret-position="532">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bsearch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="17" selection-start-line="17" selection-end-line="22" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bsearch_rec.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch_rec.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bsearch_sqrt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch_sqrt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="newton_sqrt.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14_bsearch/newton_sqrt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -59,17 +100,17 @@
       <file leaf-file-name="sort_On.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13_sorts/sort_On.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="28" lean-forward="true" selection-end-line="28" />
+            <state relative-caret-position="364">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="char_num_sort.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="char_num_sort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13_sorts/char_num_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            <state relative-caret-position="84">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -77,7 +118,7 @@
       <file leaf-file-name="sort_On2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/11_sorts/sort_On2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
+            <state relative-caret-position="517">
               <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -94,6 +135,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,9 +163,14 @@
         <option value="$PROJECT_DIR$/11_sorts/sort_On2.py" />
         <option value="$PROJECT_DIR$/11_sorts/sortOnlogn.py" />
         <option value="$PROJECT_DIR$/12_sorts/largest_k_number.py" />
-        <option value="$PROJECT_DIR$/13_sorts/sort_On.py" />
         <option value="$PROJECT_DIR$/12_sorts/sortOnlogn.py" />
         <option value="$PROJECT_DIR$/13_sorts/char_num_sort.py" />
+        <option value="$PROJECT_DIR$/13_sorts/sort_On.py" />
+        <option value="$PROJECT_DIR$/14_bsearch/bsearch.py" />
+        <option value="$PROJECT_DIR$/14_bsearch/bsearch_rec.py" />
+        <option value="$PROJECT_DIR$/14_bsearch/newton_qsrt.py" />
+        <option value="$PROJECT_DIR$/14_bsearch/bsearch_sqrt.py" />
+        <option value="$PROJECT_DIR$/14_bsearch/newton_sqrt.py" />
       </list>
     </option>
   </component>
@@ -132,7 +183,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds">
     <option name="x" value="960" />
     <option name="y" value="30" />
     <option name="width" value="960" />
@@ -176,6 +227,11 @@
               <item name="python-code" type="462c0819:PsiDirectoryNode" />
               <item name="13_sorts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="14_bsearch" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -210,8 +266,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.char_num_sort">
-    <configuration name="char_num_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.newton_sqrt">
+    <configuration name="bsearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,18 +275,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_sorts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_bsearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_sorts/char_num_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_bsearch/bsearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="largest_k_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bsearch_rec" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,18 +294,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_sorts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_bsearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_sorts/largest_k_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_bsearch/bsearch_rec.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sortOnlogn (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bsearch_sqrt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,18 +313,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_sorts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_bsearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_sorts/sortOnlogn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_bsearch/bsearch_sqrt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sortOnlogn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="newton_sqrt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,12 +332,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_sorts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_bsearch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_sorts/sortOnlogn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_bsearch/newton_sqrt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,19 +363,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.sortOnlogn" />
-      <item itemvalue="Python.sortOnlogn (1)" />
-      <item itemvalue="Python.largest_k_number" />
       <item itemvalue="Python.sort_On" />
-      <item itemvalue="Python.char_num_sort" />
+      <item itemvalue="Python.bsearch" />
+      <item itemvalue="Python.bsearch_rec" />
+      <item itemvalue="Python.bsearch_sqrt" />
+      <item itemvalue="Python.newton_sqrt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.char_num_sort" />
+        <item itemvalue="Python.newton_sqrt" />
+        <item itemvalue="Python.bsearch_sqrt" />
+        <item itemvalue="Python.bsearch_rec" />
+        <item itemvalue="Python.bsearch" />
         <item itemvalue="Python.sort_On" />
-        <item itemvalue="Python.largest_k_number" />
-        <item itemvalue="Python.sortOnlogn (1)" />
-        <item itemvalue="Python.sortOnlogn" />
       </list>
     </recent_temporary>
   </component>
@@ -380,9 +436,10 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32938644" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11247335" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17910448" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -393,7 +450,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,37 +464,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11_sorts/sort_On2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2072">
-          <caret line="75" column="33" lean-forward="true" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_stack/linked_stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_stack/simple_browser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_deque/linked_deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1316">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11_sorts/sort_On2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2352">
@@ -692,16 +717,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11_sorts/utils.py" />
     <entry file="file://$PROJECT_DIR$/11_sorts/sortOnlogn.py" />
-    <entry file="file://$PROJECT_DIR$/11_sorts/sort_On2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12_sorts/largest_k_number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -725,8 +740,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12_sorts/sortOnlogn.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_sorts/char_num_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_sorts/sort_On2.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
-          <caret line="224" selection-start-line="185" selection-end-line="224" />
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -735,15 +767,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/13_sorts/sort_On.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="28" lean-forward="true" selection-end-line="28" />
+        <state relative-caret-position="364">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/13_sorts/char_num_sort.py">
+    <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="237">
+          <caret line="17" selection-start-line="17" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch_rec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch_sqrt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_bsearch/newton_sqrt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>

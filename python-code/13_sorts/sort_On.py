@@ -8,7 +8,8 @@ class CountingSort(object):
             cnt[i] += 1
         cnt = list(accumulate(cnt))
         tmp = [0] * len(a)
-        for v in a:
+        # 从后向前，保证排序的稳定性
+        for v in reversed(a):
             # 从累加结果中获得 index
             index = cnt[v] - 1
             # 根据 index 在 tmp 中填充值
