@@ -1,5 +1,5 @@
 def bisearch(array, target):
-    return bs(array, 0, len(array), target)
+    return bs(array, 0, len(array) - 1, target)
 
 
 def bs(array, low, high, target):
@@ -20,4 +20,6 @@ if __name__ == '__main__':
     target = 4
     print(bisearch(array, target))
     target = 5
+    print(bisearch(array, target))
+    array = [3, 5, 6, 8]
     print(bisearch(array, target))

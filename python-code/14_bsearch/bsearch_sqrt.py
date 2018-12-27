@@ -1,4 +1,5 @@
 def bsearch_sqrt(num: int):
+    # num 是小数的情况注意
     low, high = 0.0, max(1.0, num)
     value = low
     while len(str(value).split('.')[1]) < 6:

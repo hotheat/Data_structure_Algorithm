@@ -3,7 +3,7 @@ def bisearch(array, target):
     没有重复元素的，已排序的数组，如果数据存在，则返回索引，如果不存在，则返回 -1
     注意，循环终止条件，mid 的计算以及 mid 的取值
     """
-    low, high = 0, len(array)
+    low, high = 0, len(array) - 1
     while low <= high:
         mid = low + (high - low) // 2
         if array[mid] == target:
