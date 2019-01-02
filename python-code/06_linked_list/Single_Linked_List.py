@@ -74,9 +74,7 @@ class SingleLinkedList(object):
 
         while n._next and n._next != node:
             n = n._next
-        # n 不是最后一个 node
-        if not n._next:
-            return
+
         new_node._next = n._next
         n._next = new_node
 
@@ -213,6 +211,9 @@ if __name__ == '__main__':
 
     sl.insert_value_before(nodev3, 18)
     print('insert before', sl)
+    node0 = sl.find_by_value(0)
+    sl.insert_value_before(node0, 100)
+    print('insert before last node', sl)
 
     nodefir = sl.find_by_index(0)
     sl.insert_value_before(nodefir, 1)
