@@ -31,6 +31,7 @@ class SkipList:
         p = self._head
         for i in range(self._level_count - 1, -1, -1):  # Move down a level
             while p._forwards[i] and p._forwards[i]._data < value:
+                # ListNode 的 forwards 存储 down 方向的信息
                 p = p._forwards[i]  # Move along level
 
         return p._forwards[0] if p._forwards[0] and p._forwards[0]._data == value else None
@@ -50,7 +51,7 @@ class SkipList:
             print('value', value, 'forwards', p._forwards[i], 'level', level)
             while p._forwards[i] and p._forwards[i]._data < value:
                 p = p._forwards[i]
-            # update 存储每一层要插入的节点
+            # update 存储每一层要插入的节点，update 和 range() 起到down指针作用
             update[i] = p  # Found a prev
 
         for i in range(level):
