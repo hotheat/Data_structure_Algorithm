@@ -20,8 +20,9 @@
     <SUITE FILE_PATH="coverage/python_code$sortOnlogn__1_.coverage" NAME="sortOnlogn (1) Coverage Results" MODIFIED="1545287523591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_sorts" />
     <SUITE FILE_PATH="coverage/python_code$largest_k_number.coverage" NAME="largest_k_number Coverage Results" MODIFIED="1545527727002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_sorts" />
     <SUITE FILE_PATH="coverage/python_code$utils.coverage" NAME="utils Coverage Results" MODIFIED="1545277616569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$search_tree.coverage" NAME="search_tree Coverage Results" MODIFIED="1548076437085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24_search_tree" />
     <SUITE FILE_PATH="coverage/python_code$char_num_sort.coverage" NAME="char_num_sort Coverage Results" MODIFIED="1545655753873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1548035432983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_binarytree" />
+    <SUITE FILE_PATH="coverage/python_code$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1548063331892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_binarytree" />
     <SUITE FILE_PATH="coverage/code$py_test_in_array_op_py.coverage" NAME="py.test in array_op.py Coverage Results" MODIFIED="1544756459515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_array" />
     <SUITE FILE_PATH="coverage/python_code$graph.coverage" NAME="graph Coverage Results" MODIFIED="1548034686581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图" />
     <SUITE FILE_PATH="coverage/python_code$Nosetests_for_sort_O1_test_sort.coverage" NAME="Nosetests for sort_O1.test_sort Coverage Results" MODIFIED="1545101398510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
@@ -46,8 +47,26 @@
       <file leaf-file-name="bsearch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="105">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search_tree.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="154" column="26" selection-start-line="154" selection-start-column="26" selection-end-line="154" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="binary_tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="39" selection-start-line="20" selection-start-column="4" selection-end-line="23" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -61,38 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_iter.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/Python/test/iter/test_iter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="binary_tree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="graph.py" pinned="false" current-in-tab="false">
-        <entry file="file://E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图/graph.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="100" column="35" lean-forward="true" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="skiplist.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/17_skiplist/skiplist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1239">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="1911">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
               <folding>
                 <element signature="e#163#190#0" expanded="true" />
               </folding>
@@ -103,8 +95,8 @@
       <file leaf-file-name="search_rotate_sorted.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15_bsearch02/search_rotate_sorted.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="399">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -183,6 +175,7 @@
         <option value="$PROJECT_DIR$/15_bsearch02/bsearch_variants.py" />
         <option value="$PROJECT_DIR$/17_skiplist/skiplist.py" />
         <option value="$PROJECT_DIR$/23_binarytree/binary_tree.py" />
+        <option value="$PROJECT_DIR$/24_search_tree/search_tree.py" />
       </list>
     </option>
   </component>
@@ -216,42 +209,12 @@
             <path>
               <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-code" type="462c0819:PsiDirectoryNode" />
-              <item name="08_stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-code" type="462c0819:PsiDirectoryNode" />
-              <item name="09_deque" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-code" type="462c0819:PsiDirectoryNode" />
-              <item name="11_sorts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-code" type="462c0819:PsiDirectoryNode" />
-              <item name="12_sorts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-code" type="462c0819:PsiDirectoryNode" />
-              <item name="13_sorts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-code" type="462c0819:PsiDirectoryNode" />
-              <item name="14_bsearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-code" type="462c0819:PsiDirectoryNode" />
-              <item name="15_bsearch02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-code" type="462c0819:PsiDirectoryNode" />
               <item name="23_binarytree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="24_search_tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,7 +224,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Work/Remote/QDscripts" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
@@ -288,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binary_tree">
+  <component name="RunManager" selected="Python.search_tree">
     <configuration name="binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,25 +266,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23_binarytree/binary_tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="bsearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_bsearch" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_bsearch/bsearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,20 +328,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="search_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_search_tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24_search_tree/search_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.bsearch" />
       <item itemvalue="Python.bsearch_rec" />
       <item itemvalue="Python.bsearch_variants" />
       <item itemvalue="Python.binary_tree" />
       <item itemvalue="Python.graph" />
+      <item itemvalue="Python.search_tree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.search_tree" />
         <item itemvalue="Python.binary_tree" />
         <item itemvalue="Python.graph" />
         <item itemvalue="Python.bsearch_variants" />
         <item itemvalue="Python.bsearch_rec" />
-        <item itemvalue="Python.bsearch" />
       </list>
     </recent_temporary>
   </component>
@@ -453,17 +416,17 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32387313" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31886476" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.40504202" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37457046" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -486,13 +449,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08_stack/linked_stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08_stack/simple_browser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -707,9 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,9 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch_sqrt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
@@ -767,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/17_skiplist/skiplist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="1911">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
           <folding>
             <element signature="e#163#190#0" expanded="true" />
           </folding>
@@ -777,8 +720,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15_bsearch02/search_rotate_sorted.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="399">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -789,24 +732,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Python/test/iter/test_iter.py">
+    <entry file="file://E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图/graph.py" />
+    <entry file="file://E:/Python/test/iter/test_iter.py" />
+    <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图/graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="100" column="35" lean-forward="true" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
+        <state relative-caret-position="105">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="61" column="34" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+        <state relative-caret-position="483">
+          <caret line="23" column="39" selection-start-line="20" selection-start-column="4" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="154" column="26" selection-start-line="154" selection-start-column="26" selection-end-line="154" selection-end-column="26" />
         </state>
       </provider>
     </entry>

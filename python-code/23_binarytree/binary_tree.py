@@ -34,15 +34,17 @@ def post_order(root):
 
 # 层遍历
 def level_order(root):
+    level = 1
     if root:
-        node_deque = deque([root])
+        node_deque = deque([(root, level)])
     while len(node_deque) > 0:
-        tmp = node_deque.popleft()
-        yield tmp.value
+        tmp, l = node_deque.popleft()
+        yield tmp.value, l
+        level += 1
         if tmp.left:
-            node_deque.append(tmp.left)
+            node_deque.append((tmp.left, level))
         if tmp.right:
-            node_deque.append(tmp.right)
+            node_deque.append((tmp.right, level))
 
 
 if __name__ == '__main__':
