@@ -220,8 +220,9 @@ if __name__ == '__main__':
     # ms1 = MergeSort_2()
     # arrs = ms1.sort(arrs)
     arrs = np.array([4, 5, 6, 1, 2, 3, 1])
+    print(MergeSort_1().sort(arrs))
     # qs1 = QuickSortNoinplace_1()
     # qs1.sort(arrs)
     # print(arrs)
-    n = 500
-    tetSort(n)
+    # n = 500
+    # tetSort(n)
