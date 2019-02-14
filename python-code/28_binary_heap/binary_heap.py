@@ -5,6 +5,7 @@ class BinaryHeap(object):
     """
     大顶堆
     """
+
     def __init__(self, data=[], capicity=100):
         self.init_data(data)
         self.capicity = capicity
@@ -105,7 +106,7 @@ class BinaryHeap(object):
     def sort(self):
         """
         sort 共分两步，堆化和排序
-        堆化采用从下往上的方法，从非叶子节点开始，在堆中，下标从 (n//2+1) 到 n 全部是叶子节点
+        堆化采用从上往下的堆化方法，从非叶子节点开始，在堆中，下标从 (n//2+1) 到 n 全部是叶子节点
         排序时，先将堆顶元素与末位元素交换，元素计数减一，然后堆化，循环操作，直至堆中只剩一个元素
         """
         self.build_heap()
@@ -114,6 +115,26 @@ class BinaryHeap(object):
             self._data[1], self._data[n] = self._data[n], self._data[1]
             n -= 1
             self.heapify_top2down(n, 1)
+
+    def find_value(self, value):
+        for i, v in enumerate(self._data):
+            if v == value:
+                return i
+        return None
+
+    def delete(self, value):
+        """
+        在堆中删除一个元素，先遍历找到该元素的位置，与最后一个元素互换位置。
+        如果最后一个元素大于要删除元素，那么从下往上堆化；反之，从上往下堆化
+        """
+        idx = self.find_value(value)
+        if idx is not None:
+            last = self._data.pop()
+            self._data[idx] = last
+            if last > value:
+                self.heapify_down2top(idx)
+            else:
+                self.heapify_top2down(self.length, idx)
 
     def _draw_heap(self):
         n = 0
@@ -140,9 +161,14 @@ if __name__ == '__main__':
         bp.insert(i)
     print(bp.length)
     print(bp)
-    for i in range(19):
+
+    bp.delete(23)
+    print(bp)
+
+    for i in range(18):
         bp.remove_max()
     print('全部移除后 bp', bp)
+
     l = list(range(10, 18))
     import random
 
