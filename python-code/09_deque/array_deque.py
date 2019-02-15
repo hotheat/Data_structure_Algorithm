@@ -6,6 +6,9 @@ class ArrayQueue(object):
         self.tail = 0
 
     def enqueue(self, value):
+        """
+        tail 指针到队列尾端时，搬移数据
+        """
         if self.tail == self.capacity:
             if self.head == 0:
                 return False

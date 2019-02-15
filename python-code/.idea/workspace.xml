@@ -7,7 +7,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a32f9888-6079-46d6-93e7-97f033f10533" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/28_binary_heap/binary_heap.py" beforeDir="false" afterPath="$PROJECT_DIR$/28_binary_heap/binary_heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/05_array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_linked_list/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/06_linked_list/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_deque/array_deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_deque/array_deque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_deque/circle_deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_deque/circle_deque.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +35,7 @@
     <SUITE FILE_PATH="coverage/python_code$bsearch_sqrt.coverage" NAME="bsearch_sqrt Coverage Results" MODIFIED="1545660169843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
     <SUITE FILE_PATH="coverage/python_code$linked_deque.coverage" NAME="linked_deque Coverage Results" MODIFIED="1545100995016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
     <SUITE FILE_PATH="coverage/python_code$newton_sqrt.coverage" NAME="newton_sqrt Coverage Results" MODIFIED="1545660562578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
+    <SUITE FILE_PATH="coverage/python_code$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1550196372185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_linked_list" />
     <SUITE FILE_PATH="coverage/python_code$sort_On.coverage" NAME="sort_On Coverage Results" MODIFIED="1545655938946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
     <SUITE FILE_PATH="coverage/python_code$py_test_in_sort_py.coverage" NAME="py.test in sort_fn.py Coverage Results" MODIFIED="1545101132805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/code$simple_browser.coverage" NAME="simple_browser Coverage Results" MODIFIED="1544766548818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_stack" />
@@ -50,31 +54,32 @@
     <session id="2017571463">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5155" />
+          <entry key="py" value="5301" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5155" />
+          <entry key="Python" value="5301" />
         </counts>
       </usages-collector>
     </session>
@@ -82,52 +87,66 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/14_bsearch/bsearch.py">
+        <entry file="file://$PROJECT_DIR$/05_array/array_op.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state relative-caret-position="567">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
+        <entry file="file://$PROJECT_DIR$/06_linked_list/Single_Linked_List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="108" column="9" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+            <state relative-caret-position="400">
+              <caret line="169" column="31" lean-forward="true" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
               <folding>
-                <element signature="e#60#220#0" />
-                <element signature="e#95#164#0" />
-                <element signature="e#198#220#0" />
-                <element signature="e#281#297#0" />
-                <element signature="e#336#805#0" />
-                <element signature="e#370#416#0" />
-                <element signature="e#481#805#0" />
-                <element signature="e#517#637#0" />
-                <element signature="e#557#609#0" />
-                <element signature="e#688#805#0" />
-                <element signature="e#727#778#0" />
-                <element signature="e#842#1123#0" />
-                <element signature="e#952#1103#0" />
-                <element signature="e#1162#2484#0" />
-                <element signature="e#1162#1375#1" />
-                <element signature="e#1501#1632#0" />
-                <element signature="e#1756#1791#0" />
-                <element signature="e#3207#3327#0" />
+                <element signature="e#0#77#1" />
+                <element signature="e#133#427#0" />
+                <element signature="e#188#235#0" />
+                <element signature="e#269#290#0" />
+                <element signature="e#329#359#0" />
+                <element signature="e#398#427#0" />
+                <element signature="e#495#512#0" />
+                <element signature="e#565#637#0" />
+                <element signature="e#698#784#0" />
+                <element signature="e#723#784#0" />
+                <element signature="e#852#921#0" />
+                <element signature="e#980#1093#0" />
+                <element signature="e#1162#1290#0" />
+                <element signature="e#1341#1467#0" />
+                <element signature="e#1418#1450#0" />
+                <element signature="e#1530#1600#0" />
+                <element signature="e#1660#1965#0" />
+                <element signature="e#1783#1836#0" />
+                <element signature="e#2018#2575#0" />
+                <element signature="e#2233#2430#0" />
+                <element signature="e#2275#2329#0" />
+                <element signature="e#2364#2430#0" />
+                <element signature="e#3156#3194#0" />
+                <element signature="e#3234#3292#0" />
+                <element signature="e#3533#3586#0" />
+                <element signature="e#3640#4012#0" />
+                <element signature="e#3640#3707#1" />
+                <element signature="e#3791#3991#0" />
+                <element signature="e#4156#4353#0" />
+                <element signature="e#4186#4252#0" />
+                <element signature="e#4287#4353#0" />
+                <element signature="e#4386#4448#0" />
+                <element signature="e#4481#4543#0" />
+                <element signature="e#4597#4853#0" />
+                <element signature="e#4673#4735#0" />
+                <element signature="e#4887#6079#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/27_recursive_tree/full_permutation.py">
+        <entry file="file://$PROJECT_DIR$/06_linked_list/palindrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
-              <folding>
-                <marker date="1548654500472" expanded="true" signature="43:48" ph="..." />
-                <marker date="1548654500472" expanded="true" signature="163:168" ph="..." />
-              </folding>
+            <state relative-caret-position="189">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -135,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08_stack/linked_stack.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="-126">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -144,17 +163,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08_stack/simple_browser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="-1065">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_deque/array_deque.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_deque/linked_deque.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_sorts/sort_On2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="e#577#1015#0" />
+                <element signature="e#693#994#0" />
+                <element signature="e#795#961#0" />
+                <element signature="e#836#913#0" />
+                <element signature="e#1048#1543#0" />
+                <element signature="e#1079#1543#0" />
+                <element signature="e#1193#1522#0" />
+                <element signature="e#1295#1438#0" />
+                <element signature="e#1339#1438#0" />
+                <element signature="e#1577#1691#0" />
+                <element signature="e#1719#1740#0" />
+                <element signature="e#1763#2280#0" />
+                <element signature="e#1875#2280#0" />
+                <element signature="e#2012#2280#0" />
+                <element signature="e#2314#2423#0" />
+                <element signature="e#2342#2379#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/28_binary_heap/binary_heap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="167" column="21" selection-start-line="167" selection-start-column="21" selection-end-line="167" selection-end-column="21" />
+            <state relative-caret-position="1183">
+              <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
               <folding>
                 <marker date="1550136785315" expanded="true" signature="39:44" ph="..." />
                 <marker date="1550136785315" expanded="true" signature="491:495" ph="..." />
@@ -163,6 +227,15 @@
                 <marker date="1550136785315" expanded="true" signature="3274:3395" ph="..." />
                 <marker date="1550136785315" expanded="true" signature="3419:3817" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09_deque/circle_deque.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-344">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -193,8 +266,6 @@
         <option value="$PROJECT_DIR$/09_deque/arraydeque.py" />
         <option value="$PROJECT_DIR$/08_stack/linked_stack.py" />
         <option value="$PROJECT_DIR$/09_deque/linked_deque.py" />
-        <option value="$PROJECT_DIR$/09_deque/array_deque.py" />
-        <option value="$PROJECT_DIR$/09_deque/circle_deque.py" />
         <option value="$PROJECT_DIR$/11_sorts/bubble_sort.py" />
         <option value="$PROJECT_DIR$/11_sorts/sort.py" />
         <option value="$PROJECT_DIR$/11_sorts/sort_new.py" />
@@ -221,6 +292,9 @@
         <option value="$PROJECT_DIR$/27_recursive_tree/full_permutation.py" />
         <option value="$PROJECT_DIR$/08_stack/simple_browser.py" />
         <option value="$PROJECT_DIR$/28_binary_heap/binary_heap.py" />
+        <option value="$PROJECT_DIR$/06_linked_list/palindrome.py" />
+        <option value="$PROJECT_DIR$/09_deque/array_deque.py" />
+        <option value="$PROJECT_DIR$/09_deque/circle_deque.py" />
       </list>
     </option>
   </component>
@@ -243,6 +317,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,13 +328,42 @@
             <path>
               <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="05_array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="06_linked_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="08_stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="09_deque" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="11_sorts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="12_sorts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
               <item name="28_binary_heap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,7 +395,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binary_heap">
+  <component name="RunManager" selected="Python.palindrome">
     <configuration name="binary_heap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,7 +462,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,12 +470,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06_linked_list" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图/graph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_linked_list/palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -404,18 +508,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.binary_tree" />
-      <item itemvalue="Python.graph" />
       <item itemvalue="Python.search_tree" />
       <item itemvalue="Python.full_permutation" />
       <item itemvalue="Python.binary_heap" />
+      <item itemvalue="Python.palindrome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.palindrome" />
         <item itemvalue="Python.binary_heap" />
         <item itemvalue="Python.full_permutation" />
         <item itemvalue="Python.search_tree" />
         <item itemvalue="Python.binary_tree" />
-        <item itemvalue="Python.graph" />
       </list>
     </recent_temporary>
   </component>
@@ -466,13 +570,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1738076" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17623281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3139535" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3139535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -498,42 +603,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06_linked_list/Single_Linked_List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="194" column="21" lean-forward="true" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_array/array_op.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_deque/array_deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_deque/circle_deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11_sorts/sort_fn.py" />
-    <entry file="file://$PROJECT_DIR$/09_deque/linked_deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1316">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11_sorts/python_test.py" />
     <entry file="file://$PROJECT_DIR$/11_sorts/sort_new.py" />
     <entry file="file://$PROJECT_DIR$/11_sorts/utils.py" />
@@ -558,13 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_sorts/sort_On2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -685,24 +748,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_stack/linked_stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_stack/simple_browser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/28_binary_heap/binary_heap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="167" column="21" selection-start-line="167" selection-start-column="21" selection-end-line="167" selection-end-column="21" />
+        <state relative-caret-position="1183">
+          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
           <folding>
             <marker date="1550136785315" expanded="true" signature="39:44" ph="..." />
             <marker date="1550136785315" expanded="true" signature="491:495" ph="..." />
@@ -711,6 +760,125 @@
             <marker date="1550136785315" expanded="true" signature="3274:3395" ph="..." />
             <marker date="1550136785315" expanded="true" signature="3419:3817" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_linked_list/Single_Linked_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="169" column="31" lean-forward="true" selection-start-line="169" selection-start-column="31" selection-end-line="169" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#77#1" />
+            <element signature="e#133#427#0" />
+            <element signature="e#188#235#0" />
+            <element signature="e#269#290#0" />
+            <element signature="e#329#359#0" />
+            <element signature="e#398#427#0" />
+            <element signature="e#495#512#0" />
+            <element signature="e#565#637#0" />
+            <element signature="e#698#784#0" />
+            <element signature="e#723#784#0" />
+            <element signature="e#852#921#0" />
+            <element signature="e#980#1093#0" />
+            <element signature="e#1162#1290#0" />
+            <element signature="e#1341#1467#0" />
+            <element signature="e#1418#1450#0" />
+            <element signature="e#1530#1600#0" />
+            <element signature="e#1660#1965#0" />
+            <element signature="e#1783#1836#0" />
+            <element signature="e#2018#2575#0" />
+            <element signature="e#2233#2430#0" />
+            <element signature="e#2275#2329#0" />
+            <element signature="e#2364#2430#0" />
+            <element signature="e#3156#3194#0" />
+            <element signature="e#3234#3292#0" />
+            <element signature="e#3533#3586#0" />
+            <element signature="e#3640#4012#0" />
+            <element signature="e#3640#3707#1" />
+            <element signature="e#3791#3991#0" />
+            <element signature="e#4156#4353#0" />
+            <element signature="e#4186#4252#0" />
+            <element signature="e#4287#4353#0" />
+            <element signature="e#4386#4448#0" />
+            <element signature="e#4481#4543#0" />
+            <element signature="e#4597#4853#0" />
+            <element signature="e#4673#4735#0" />
+            <element signature="e#4887#6079#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_linked_list/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_stack/linked_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_stack/simple_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1065">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_sorts/sort_On2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#577#1015#0" />
+            <element signature="e#693#994#0" />
+            <element signature="e#795#961#0" />
+            <element signature="e#836#913#0" />
+            <element signature="e#1048#1543#0" />
+            <element signature="e#1079#1543#0" />
+            <element signature="e#1193#1522#0" />
+            <element signature="e#1295#1438#0" />
+            <element signature="e#1339#1438#0" />
+            <element signature="e#1577#1691#0" />
+            <element signature="e#1719#1740#0" />
+            <element signature="e#1763#2280#0" />
+            <element signature="e#1875#2280#0" />
+            <element signature="e#2012#2280#0" />
+            <element signature="e#2314#2423#0" />
+            <element signature="e#2342#2379#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_array/array_op.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_deque/linked_deque.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_deque/array_deque.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_deque/circle_deque.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
         </state>
       </provider>
     </entry>

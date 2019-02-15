@@ -10,6 +10,7 @@ class CircularQueue(object):
         self._tail = 0
 
     def enqueue(self, value):
+        # 判断队满
         if (self._tail + 1) % self.capacity == self._head:
             return False
         self.items[self._tail] = value
