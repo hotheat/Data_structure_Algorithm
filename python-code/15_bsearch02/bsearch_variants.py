@@ -53,7 +53,7 @@ def bsearch_first_egreater(array, target):
 
 def bsearch_last_eless(array, target):
     """
-    查找第一个大于等于给定值的元素索引
+    查找最后一个小于等于给定值的元素索引
     """
     low, high = 0, len(array) - 1
     while low <= high:

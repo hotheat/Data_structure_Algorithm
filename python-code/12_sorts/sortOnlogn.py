@@ -4,7 +4,7 @@ import time
 
 class MergeSort_1(object):
     """
-    merge 合并函数
+    应用 merge 合并函数，对应于快排中的分区函数
     """
 
     def sort(self, array):
@@ -78,7 +78,8 @@ class MergeSort_2(object):
 
 class QuickSortNoinplace_1(object):
     """
-    有 partition 分区函数
+    有 partition 分区函数，非原地排序
+    选择最后一个元素作为分区点
     """
 
     def sort(self, array):
@@ -109,7 +110,7 @@ class QuickSortNoinplace_1(object):
 
 class QuickSortNoinplace_2(object):
     """
-    无 partition 分区函数
+    无 partition 分区函数，非原地排序
     """
 
     def sort(self, array):
@@ -131,6 +132,10 @@ class QuickSortNoinplace_2(object):
 
 
 class QuickSortInplace(object):
+    """
+    原地快排
+    选择最后一个元素作为分区点
+    """
     def sort(self, array):
         self.quick_sort(array, 0, len(array) - 1)
         return array
@@ -157,6 +162,9 @@ class QuickSortInplace(object):
 
 
 class QuickSortInplace_random(object):
+    """
+    原地快排，随机选择分区点
+    """
     def sort(self, array):
         self.quick_sort(array, 0, len(array) - 1)
         return array
