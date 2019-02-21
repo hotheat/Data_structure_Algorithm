@@ -8,7 +8,7 @@ class TreeNode(object):
         self.right = None
 
 
-# 前序遍历，值，左节点，右节点
+# 前序遍历，值，左子树，右子树
 def pre_order(root):
     if root:
         yield root.value
@@ -16,7 +16,7 @@ def pre_order(root):
         yield from pre_order(root.right)
 
 
-# 中序遍历，左节点，值，右节点
+# 中序遍历，左子树，值，右子树
 def in_order(root):
     if root:
         yield from in_order(root.left)
@@ -34,17 +34,22 @@ def post_order(root):
 
 # 层遍历
 def level_order(root):
-    level = 1
+    """
+    按层遍历，实际上是广度优先算法，借助队列来做。
+    """
     if root:
+        level = 1
         node_deque = deque([(root, level)])
-    while len(node_deque) > 0:
-        tmp, l = node_deque.popleft()
-        yield tmp.value, l
-        level += 1
-        if tmp.left:
-            node_deque.append((tmp.left, level))
-        if tmp.right:
-            node_deque.append((tmp.right, level))
+        while len(node_deque) > 0:
+            tmp, l = node_deque.popleft()
+            yield tmp.value
+            level += 1
+            if tmp.left:
+                node_deque.append((tmp.left, level))
+            if tmp.right:
+                node_deque.append((tmp.right, level))
+    else:
+        return None
 
 
 if __name__ == '__main__':

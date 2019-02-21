@@ -11,13 +11,13 @@ class Solution:
                 return mid
 
             if nums[mid] < nums[high]:
-                # 后半部分是排好序的
+                # 后半部分是排好序的，先在后半部分中判断
                 if nums[mid] <= target <= nums[high]:
                     low = mid + 1
                 else:
                     high = mid - 1
             else:
-                # 前半部分是排好序的
+                # 前半部分是排好序的，先在前半部分中判断
                 if nums[low] <= target <= nums[mid]:
                     high = mid - 1
                 else:

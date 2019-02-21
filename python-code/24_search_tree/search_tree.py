@@ -16,6 +16,10 @@ class SearchTree(object):
         self.root = None
 
     def insert(self, value):
+        """
+        如果要插入数据比节点数据大，并且节点的右子树为空，直接将数据插入到右子节点位置，否则，递归遍历右子树；
+        如果要插入数据比节点数据小，并且节点的左子树为空，直接将数据插入到左子节点，否则，递归遍历左子树
+        """
         if self.root is None:
             self.root = TreeNode(value)
             return
@@ -34,6 +38,10 @@ class SearchTree(object):
                 p = p.left
 
     def find(self, value):
+        """
+        先取根节点，如果要查找的数据比根节点小，那么在左子树中递归查找；
+        如果要查找数据比根节点大，那么在右子树中查找
+        """
         if self.root is None:
             return None
 
@@ -87,8 +95,10 @@ class SearchTree(object):
             p = minp
 
         # 找到 p 的子节点
+        # 只有左子节点
         if p.left is not None:
             child = p.left
+        # 只有右子节点
         elif p.right is not None:
             child = p.right
         else:
