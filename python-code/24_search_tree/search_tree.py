@@ -135,6 +135,9 @@ class SearchTree(object):
 
     @property
     def level(self):
+        """
+        或者用递归方法，左子树高度和右子树最大高度的最大值 + 1
+        """
         level = 1
         for n, l in self.level_order():
             level = max(level, l)

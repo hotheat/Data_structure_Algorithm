@@ -42,14 +42,14 @@ def level_order(root):
         node_deque = deque([(root, level)])
         while len(node_deque) > 0:
             tmp, l = node_deque.popleft()
-            yield tmp.value
-            level += 1
+            yield tmp.value, l
+            level = l+1
             if tmp.left:
                 node_deque.append((tmp.left, level))
             if tmp.right:
                 node_deque.append((tmp.right, level))
     else:
-        return None
+        yield None, 0
 
 
 if __name__ == '__main__':
