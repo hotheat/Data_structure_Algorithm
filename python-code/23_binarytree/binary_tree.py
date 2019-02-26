@@ -59,10 +59,9 @@ if __name__ == '__main__':
     sec_D = TreeNode('D')
     sec_E = TreeNode('E')
     sec_F = TreeNode('F')
-    sec_G = TreeNode('G')
     root.left, root.right = first_B, first_C
     first_B.left, first_B.right = sec_D, sec_E
-    first_C.left, first_C.right = sec_F, sec_G
+    first_C.left,  = sec_F,
 
     print(list(pre_order(root)))
     print(list(in_order(root)))
