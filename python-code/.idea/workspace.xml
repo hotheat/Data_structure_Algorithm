@@ -7,8 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a32f9888-6079-46d6-93e7-97f033f10533" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23_binarytree/binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/23_binarytree/binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_code$rk.coverage" NAME="rk Coverage Results" MODIFIED="1551245632741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/32_bf_rk" />
     <SUITE FILE_PATH="coverage/python_code$bsearch_variants.coverage" NAME="bsearch_variants Coverage Results" MODIFIED="1548001009818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_bsearch02" />
     <SUITE FILE_PATH="coverage/python_code$graph.coverage" NAME="graph Coverage Results" MODIFIED="1550726787847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图" />
     <SUITE FILE_PATH="coverage/python_code$search_tree.coverage" NAME="search_tree Coverage Results" MODIFIED="1550809775136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24_search_tree" />
@@ -25,6 +24,7 @@
     <SUITE FILE_PATH="coverage/python_code$largest_k_number.coverage" NAME="largest_k_number Coverage Results" MODIFIED="1545527727002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_sorts" />
     <SUITE FILE_PATH="coverage/code$linked_stack.coverage" NAME="linked_stack Coverage Results" MODIFIED="1544766969456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_stack" />
     <SUITE FILE_PATH="coverage/python_code$sort_O1.coverage" NAME="sort_O1 Coverage Results" MODIFIED="1545111326141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$bf.coverage" NAME="bf Coverage Results" MODIFIED="1551244252579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/32_bf_rk" />
     <SUITE FILE_PATH="coverage/python_code$binary_heap.coverage" NAME="binary_heap Coverage Results" MODIFIED="1550136785329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/28_binary_heap" />
     <SUITE FILE_PATH="coverage/python_code$Nosetests_for_sort_O1_test_sort.coverage" NAME="Nosetests for sort_O1.test_sort Coverage Results" MODIFIED="1545101398510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/code$py_test_in_array_op_py.coverage" NAME="py.test in array_op.py Coverage Results" MODIFIED="1544756459515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_array" />
@@ -44,7 +44,7 @@
     <SUITE FILE_PATH="coverage/python_code$char_num_sort.coverage" NAME="char_num_sort Coverage Results" MODIFIED="1550627321398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
     <SUITE FILE_PATH="coverage/python_code$circle_deque.coverage" NAME="circle_deque Coverage Results" MODIFIED="1544851748019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
     <SUITE FILE_PATH="coverage/python_code$utils.coverage" NAME="utils Coverage Results" MODIFIED="1545277616569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1551069348633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_binarytree" />
+    <SUITE FILE_PATH="coverage/python_code$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1551244134911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_binarytree" />
     <SUITE FILE_PATH="coverage/python_code$bsearch_rec.coverage" NAME="bsearch_rec Coverage Results" MODIFIED="1545816667784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
     <SUITE FILE_PATH="coverage/python_code$Nosetests_in_sort_O1_py.coverage" NAME="Nosetests in sort_O1.py Coverage Results" MODIFIED="1545101364229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/python_code$bsearch.coverage" NAME="bsearch Coverage Results" MODIFIED="1545813716169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
@@ -54,59 +54,41 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="38" />
+          <entry key="py" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="38" />
+          <entry key="Python" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7372" />
+          <entry key="py" value="8495" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7372" />
+          <entry key="Python" value="8495" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15_bsearch02/bsearch_variants.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1617">
-              <caret line="77" column="14" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08_stack/linked_stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06_linked_list/Single_Linked_List.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -128,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/28_binary_heap/binary_heap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="165" column="13" lean-forward="true" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
+            <state relative-caret-position="3465">
+              <caret line="165" column="13" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -143,14 +125,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <marker date="1550727874939" expanded="true" signature="52:57" ph="..." />
                 <marker date="1550727874939" expanded="true" signature="327:336" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/32_bf_rk/bf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <marker date="1551244786863" expanded="true" signature="31:36" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/32_bf_rk/rk.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+              <folding>
+                <marker date="1551245521255" expanded="true" signature="186:297" ph="..." />
+                <marker date="1551245521255" expanded="true" signature="327:332" ph="..." />
               </folding>
             </state>
           </provider>
@@ -242,6 +249,8 @@
         <option value="$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py" />
         <option value="$PROJECT_DIR$/24_search_tree/search_tree.py" />
         <option value="$PROJECT_DIR$/23_binarytree/binary_tree.py" />
+        <option value="$PROJECT_DIR$/32_bf_rk/bf.py" />
+        <option value="$PROJECT_DIR$/32_bf_rk/rk.py" />
       </list>
     </option>
   </component>
@@ -264,6 +273,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,11 +346,15 @@
               <item name="python-code" type="462c0819:PsiDirectoryNode" />
               <item name="31_bfs_dfs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="32_bf_rk" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,8 +386,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.binary_tree">
-    <configuration name="bfs_dfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.rk">
+    <configuration name="bf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,12 +395,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/31_bfs_dfs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/32_bf_rk" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/32_bf_rk/bf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,28 +431,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="char_num_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13_sorts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_sorts/char_num_sort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -453,6 +445,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图/graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/32_bf_rk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/32_bf_rk/rk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -484,19 +498,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.char_num_sort" />
       <item itemvalue="Python.binary_tree" />
       <item itemvalue="Python.search_tree" />
-      <item itemvalue="Python.bfs_dfs" />
       <item itemvalue="Python.graph" />
+      <item itemvalue="Python.bf" />
+      <item itemvalue="Python.rk" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rk" />
+        <item itemvalue="Python.bf" />
         <item itemvalue="Python.binary_tree" />
         <item itemvalue="Python.search_tree" />
         <item itemvalue="Python.graph" />
-        <item itemvalue="Python.bfs_dfs" />
-        <item itemvalue="Python.char_num_sort" />
       </list>
     </recent_temporary>
   </component>
@@ -549,12 +563,12 @@
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24656427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2506063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3139535" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3139535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -755,6 +769,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/28_binary_heap/binary_heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3465">
+          <caret line="165" column="13" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2898">
@@ -783,27 +811,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/28_binary_heap/binary_heap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="165" column="13" lean-forward="true" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <marker date="1550727874939" expanded="true" signature="52:57" ph="..." />
             <marker date="1550727874939" expanded="true" signature="327:336" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32_bf_rk/bf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <marker date="1551244786863" expanded="true" signature="31:36" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32_bf_rk/rk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding>
+            <marker date="1551245521255" expanded="true" signature="186:297" ph="..." />
+            <marker date="1551245521255" expanded="true" signature="327:332" ph="..." />
           </folding>
         </state>
       </provider>
