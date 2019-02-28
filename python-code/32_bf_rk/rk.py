@@ -29,7 +29,7 @@ def rabin_karp(main, pattern):
         hash_res[i] = hash_res[i - 1] - ord(main[i - 1]) + ord(main[i + pl - 1])
 
     hashp = simple_hash(pattern, 0, pl)
-    
+
     for i, v in enumerate(hash_res):
         if v == hashp and pattern == main[i:i + pl]:
             return True
