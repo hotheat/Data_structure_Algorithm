@@ -142,6 +142,7 @@ class QuickSortInplace(object):
 
     def patition(self, array, low, high):
         pivot = array[high]
+        # j 的意义是 j 的左边都是比 pivot 小的数，右边都是比 pivot 大的数，是个临界位置
         j = low
         for i in range(low, high):
             if array[i] <= pivot:
