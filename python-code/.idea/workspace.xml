@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a32f9888-6079-46d6-93e7-97f033f10533" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/39_back_track/01-bag.py" beforeDir="false" afterPath="$PROJECT_DIR$/39_back_track/01-bag-value.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +30,18 @@
     <SUITE FILE_PATH="coverage/python_code$Nosetests_for_sort_O1_test_sort.coverage" NAME="Nosetests for sort_O1.test_sort Coverage Results" MODIFIED="1545101398510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/code$py_test_in_array_op_py.coverage" NAME="py.test in array_op.py Coverage Results" MODIFIED="1544756459515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_array" />
     <SUITE FILE_PATH="coverage/python_code$01.coverage" NAME="01 Coverage Results" MODIFIED="1553332652205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
+    <SUITE FILE_PATH="coverage/python_code$01bag.coverage" NAME="01bag Coverage Results" MODIFIED="1553503199729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40_dynamic_programming" />
     <SUITE FILE_PATH="coverage/python_code$bfs_dfs.coverage" NAME="bfs_dfs Coverage Results" MODIFIED="1550726134656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31_bfs_dfs" />
     <SUITE FILE_PATH="coverage/python_code$py_test_for_sort_test.coverage" NAME="py.test for sort.test Coverage Results" MODIFIED="1545100861298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$yh_triangle.coverage" NAME="yh_triangle Coverage Results" MODIFIED="1553508576892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40_dynamic_programming" />
     <SUITE FILE_PATH="coverage/python_code$01_bag.coverage" NAME="01-bag Coverage Results" MODIFIED="1553329498595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
     <SUITE FILE_PATH="coverage/python_code$sortOnlogn.coverage" NAME="sortOnlogn Coverage Results" MODIFIED="1545285482536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/python_code$bsearch_sqrt.coverage" NAME="bsearch_sqrt Coverage Results" MODIFIED="1545660169843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
     <SUITE FILE_PATH="coverage/python_code$linked_deque.coverage" NAME="linked_deque Coverage Results" MODIFIED="1545100995016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
+    <SUITE FILE_PATH="coverage/python_code$01bag_max_value.coverage" NAME="01bag-max_value Coverage Results" MODIFIED="1553508563548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40_dynamic_programming" />
     <SUITE FILE_PATH="coverage/python_code$newton_sqrt.coverage" NAME="newton_sqrt Coverage Results" MODIFIED="1545660562578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
     <SUITE FILE_PATH="coverage/python_code$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1550196372185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_linked_list" />
+    <SUITE FILE_PATH="coverage/python_code$01_bag_value.coverage" NAME="01-bag-value Coverage Results" MODIFIED="1553502425426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
     <SUITE FILE_PATH="coverage/python_code$sort_On.coverage" NAME="sort_On Coverage Results" MODIFIED="1545655938946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
     <SUITE FILE_PATH="coverage/python_code$merge_sort_counting.coverage" NAME="merge_sort_counting Coverage Results" MODIFIED="1553180737068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/38_divide_and_conquer" />
     <SUITE FILE_PATH="coverage/python_code$eight_queens.coverage" NAME="eight_queens Coverage Results" MODIFIED="1553251309737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
@@ -48,6 +53,7 @@
     <SUITE FILE_PATH="coverage/python_code$sortOnlogn__1_.coverage" NAME="sortOnlogn (1) Coverage Results" MODIFIED="1545287523591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_sorts" />
     <SUITE FILE_PATH="coverage/python_code$char_num_sort.coverage" NAME="char_num_sort Coverage Results" MODIFIED="1550627321398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
     <SUITE FILE_PATH="coverage/python_code$circle_deque.coverage" NAME="circle_deque Coverage Results" MODIFIED="1544851748019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
+    <SUITE FILE_PATH="coverage/python_code$01_bag__1_.coverage" NAME="01-bag (1) Coverage Results" MODIFIED="1553486339420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
     <SUITE FILE_PATH="coverage/python_code$utils.coverage" NAME="utils Coverage Results" MODIFIED="1545277616569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/python_code$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1551244134911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_binarytree" />
     <SUITE FILE_PATH="coverage/python_code$bsearch_rec.coverage" NAME="bsearch_rec Coverage Results" MODIFIED="1545816667784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
@@ -58,36 +64,39 @@
     <session id="2017571463">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="9" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="51" />
+          <entry key="py" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="51" />
+          <entry key="Python" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="12168" />
+          <entry key="dummy" value="14" />
+          <entry key="py" value="16536" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="12168" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="16536" />
         </counts>
       </usages-collector>
     </session>
@@ -95,53 +104,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/39_back_track/eight_queens.py">
+        <entry file="file://$PROJECT_DIR$/39_back_track/01-bag-value.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/39_back_track/01-bag.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+            <state relative-caret-position="153">
+              <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="26" />
               <folding>
-                <marker date="1553328180399" expanded="true" signature="62:67" ph="..." />
-                <marker date="1553328180399" expanded="true" signature="62:243" ph="..." />
+                <marker date="1553485987234" expanded="true" signature="72:77" ph="..." />
+                <marker date="1553485987234" expanded="true" signature="72:433" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/39_back_track/regex.py">
+        <entry file="file://$PROJECT_DIR$/39_back_track/01-bag_mem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="345">
+              <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/40_dynamic_programming/01bag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/40_dynamic_programming/01bag-max_value.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1281">
+              <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
               <folding>
-                <marker date="1553332670388" expanded="true" signature="40:45" ph="..." />
+                <marker date="1553505893520" expanded="true" signature="127:132" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/27_recursive_tree/full_permutation.py">
+        <entry file="file://$PROJECT_DIR$/40_dynamic_programming/yh_triangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/28_binary_heap/binary_heap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2037">
-              <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
+            <state relative-caret-position="321">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+              <folding>
+                <marker date="1553508362180" expanded="true" signature="22:27" ph="..." />
+                <marker date="1553508362180" expanded="true" signature="539:676" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -258,9 +271,14 @@
         <option value="$PROJECT_DIR$/12_sorts/largest_k_number.py" />
         <option value="$PROJECT_DIR$/38_divide_and_conquer/merge_sort_counting.py" />
         <option value="$PROJECT_DIR$/39_back_track/eight_queens.py" />
-        <option value="$PROJECT_DIR$/39_back_track/01-bag.py" />
         <option value="$PROJECT_DIR$/39_back_track/01.py" />
         <option value="$PROJECT_DIR$/39_back_track/regex.py" />
+        <option value="$PROJECT_DIR$/39_back_track/01bag.py" />
+        <option value="$PROJECT_DIR$/39_back_track/01-bag-value.py" />
+        <option value="$PROJECT_DIR$/39_back_track/01-bag.py" />
+        <option value="$PROJECT_DIR$/40_dynamic_programming/01bag.py" />
+        <option value="$PROJECT_DIR$/40_dynamic_programming/01bag-max_value.py" />
+        <option value="$PROJECT_DIR$/40_dynamic_programming/yh_triangle.py" />
       </list>
     </option>
   </component>
@@ -271,8 +289,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="924" />
-    <option name="y" value="12" />
+    <option name="x" value="-12" />
     <option name="width" value="981" />
     <option name="height" value="1092" />
   </component>
@@ -284,7 +301,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -377,10 +393,16 @@
               <item name="python-code" type="462c0819:PsiDirectoryNode" />
               <item name="39_back_track" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="40_dynamic_programming" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -412,8 +434,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.regex">
-    <configuration name="01-bag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.yh_triangle">
+    <configuration name="01-bag (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -426,7 +448,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39_back_track/01-bag.py" />
+      <option name="SCRIPT_NAME" value="C:\Data\Study\Data Structure and Algorithm\JikeExercise\python-code\39_back_track\01-bag_mem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -435,7 +457,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01-bag-value" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -448,7 +470,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39_back_track/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39_back_track/01-bag-value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -457,7 +479,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="eight_queens" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01bag-max_value" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -465,12 +487,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/39_back_track" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/40_dynamic_programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39_back_track/eight_queens.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40_dynamic_programming/01bag-max_value.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -479,7 +501,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="merge_sort_counting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="01bag" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -487,12 +509,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/38_divide_and_conquer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/40_dynamic_programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/38_divide_and_conquer/merge_sort_counting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40_dynamic_programming/01bag.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -501,7 +523,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="yh_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -509,12 +531,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/39_back_track" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/40_dynamic_programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39_back_track/regex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40_dynamic_programming/yh_triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -524,19 +546,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.merge_sort_counting" />
-      <item itemvalue="Python.eight_queens" />
-      <item itemvalue="Python.01-bag" />
-      <item itemvalue="Python.regex" />
-      <item itemvalue="Python.01" />
+      <item itemvalue="Python.01-bag (1)" />
+      <item itemvalue="Python.01-bag-value" />
+      <item itemvalue="Python.01bag" />
+      <item itemvalue="Python.01bag-max_value" />
+      <item itemvalue="Python.yh_triangle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.regex" />
-        <item itemvalue="Python.01" />
-        <item itemvalue="Python.01-bag" />
-        <item itemvalue="Python.eight_queens" />
-        <item itemvalue="Python.merge_sort_counting" />
+        <item itemvalue="Python.yh_triangle" />
+        <item itemvalue="Python.01bag-max_value" />
+        <item itemvalue="Python.01bag" />
+        <item itemvalue="Python.01-bag-value" />
+        <item itemvalue="Python.01-bag (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -589,12 +611,12 @@
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2271625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16653194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3139535" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3139535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -794,11 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <marker date="1553180737019" expanded="true" signature="68:73" ph="..." />
-            <marker date="1553180737019" expanded="true" signature="204:209" ph="..." />
-            <marker date="1553180737019" expanded="true" signature="412:416" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -806,6 +823,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39_back_track/01.py" />
+    <entry file="file://$PROJECT_DIR$/39_back_track/eight_queens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39_back_track/regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27_recursive_tree/full_permutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -855,45 +894,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/39_back_track/eight_queens.py">
+    <entry file="file://$PROJECT_DIR$/39_back_track/01-bag-value.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/39_back_track/01-bag.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="38" column="35" lean-forward="true" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+        <state relative-caret-position="153">
+          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="26" />
           <folding>
-            <marker date="1553328180399" expanded="true" signature="62:67" ph="..." />
-            <marker date="1553328180399" expanded="true" signature="62:243" ph="..." />
+            <marker date="1553485987234" expanded="true" signature="72:77" ph="..." />
+            <marker date="1553485987234" expanded="true" signature="72:433" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/39_back_track/01.py">
+    <entry file="file://$PROJECT_DIR$/39_back_track/01-bag_mem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        <state relative-caret-position="345">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/39_back_track/regex.py">
+    <entry file="file://$PROJECT_DIR$/40_dynamic_programming/01bag.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="279">
+          <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/40_dynamic_programming/01bag-max_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
           <folding>
-            <marker date="1553332670388" expanded="true" signature="40:45" ph="..." />
+            <marker date="1553505893520" expanded="true" signature="127:132" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/27_recursive_tree/full_permutation.py">
+    <entry file="file://$PROJECT_DIR$/40_dynamic_programming/yh_triangle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="16" column="45" lean-forward="true" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        <state relative-caret-position="321">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <marker date="1553508362180" expanded="true" signature="22:27" ph="..." />
+            <marker date="1553508362180" expanded="true" signature="539:676" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
