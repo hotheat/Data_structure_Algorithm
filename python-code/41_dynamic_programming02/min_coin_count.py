@@ -1,3 +1,6 @@
+from pprint import pprint
+
+
 def min_coin_number(cur_count, cur_value, total_value, coin_lst):
     """
     回溯法思路：
@@ -16,9 +19,10 @@ def min_coin_number(cur_count, cur_value, total_value, coin_lst):
             min_coin_number(cur_count + 1, cur_value + v, total_value, coin_lst)
 
 
-def min_coin_count_2(coin_lst, total_value):
+def min_coin_count_onedim1(coin_lst, total_value):
     """
     状态转移表法解决
+    dp[i] 代表 total_value 为 i 的索引时所需的最少硬币数量
     状态转移方方程 min_num  = min(min_num, dp[i-coins[j]] + 1)
     i-coins[j] 是总钱数减去当前硬币面额
     """
@@ -37,7 +41,7 @@ def min_coin_count_2(coin_lst, total_value):
     return dp[-1]
 
 
-def min_coin_count_3(coin_lst, total_value):
+def min_coin_count_onedim2(coin_lst, total_value):
     """
     状态转移表法解决
     状态转移方方程 dp[i]  = min(dp[i], dp[i-coins[j]] + 1)
@@ -57,11 +61,36 @@ def min_coin_count_3(coin_lst, total_value):
     return dp[-1]
 
 
+def min_coin_count_twodim(coin_lst, total_value):
+    """
+    dp[i][j] 代表只用前 i 种硬币构成面值为 j 所需的最小硬币数
+    dp[i][j] = min(dp[i][j], dp[i][j-coins[i]] + 1)
+    不加入一个硬币 i 时，构成的面额是 j-coins[i]，如果要达到 j，那再需要一个硬币就可以
+    :param coin_lst:
+    :param total_value:
+    :return:
+    """
+    # 初始化
+    # 假设面值为 0，需要无穷个硬币，假设总价值为 0，只需要 0 个硬币
+    n = len(coin_lst)
+    dp = [[float('inf')] * (total_value + 1) for i in range(n + 1)]
+    for i in dp:
+        i[0] = 0
+    for r in range(1, len(dp)):
+        for col in range(1, len(dp[0])):
+            for coin in coin_lst:
+                dp[r][col] = min(dp[r][col], dp[r][col - coin] + 1)
+
+    pprint(dp)
+    return dp[-1][total_value]
+
+
 if __name__ == '__main__':
-    coins = [1, 3, 5]
-    total_val = 9
+    coins = [2, 3, 5]
+    total_val = 13
     min_count = float('inf')
     min_coin_number(0, 0, total_val, coins)
     print(min_count)
-    print(min_coin_count_2(coins, total_val))
-    print(min_coin_count_3(coins, total_val))
+    print(min_coin_count_onedim1(coins, total_val))
+    print(min_coin_count_onedim2(coins, total_val))
+    print(min_coin_count_twodim(coins, total_val))

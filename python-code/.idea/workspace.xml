@@ -8,10 +8,7 @@
     <list default="true" id="a32f9888-6079-46d6-93e7-97f033f10533" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/40_dynamic_programming/01bag-max_value.py" beforeDir="false" afterPath="$PROJECT_DIR$/40_dynamic_programming01/01bag-max_value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/40_dynamic_programming/01bag.py" beforeDir="false" afterPath="$PROJECT_DIR$/40_dynamic_programming01/01bag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/40_dynamic_programming/yh_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/40_dynamic_programming01/yh_triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,91 +17,94 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_code$rk.coverage" NAME="rk Coverage Results" MODIFIED="1551245632741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/32_bf_rk" />
     <SUITE FILE_PATH="coverage/python_code$bsearch_variants.coverage" NAME="bsearch_variants Coverage Results" MODIFIED="1548001009818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15_bsearch02" />
     <SUITE FILE_PATH="coverage/python_code$min_dist_square.coverage" NAME="min_dist_square Coverage Results" MODIFIED="1553652168342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
     <SUITE FILE_PATH="coverage/python_code$graph.coverage" NAME="graph Coverage Results" MODIFIED="1550726787847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图" />
     <SUITE FILE_PATH="coverage/python_code$search_tree.coverage" NAME="search_tree Coverage Results" MODIFIED="1550809775136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24_search_tree" />
-    <SUITE FILE_PATH="coverage/python_code$table_min_dist.coverage" NAME="table_min_dist Coverage Results" MODIFIED="1553659222234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/41_dynamic_programming02" />
-    <SUITE FILE_PATH="coverage/python_code$sort_On2.coverage" NAME="sort_On2 Coverage Results" MODIFIED="1545278615188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$full_permutation.coverage" NAME="full_permutation Coverage Results" MODIFIED="1550539055242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/27_recursive_tree" />
-    <SUITE FILE_PATH="coverage/python_code$largest_k_number.coverage" NAME="largest_k_number Coverage Results" MODIFIED="1552488202004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_sorts" />
     <SUITE FILE_PATH="coverage/code$linked_stack.coverage" NAME="linked_stack Coverage Results" MODIFIED="1544766969456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_stack" />
     <SUITE FILE_PATH="coverage/python_code$sort_O1.coverage" NAME="sort_O1 Coverage Results" MODIFIED="1545111326141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$bf.coverage" NAME="bf Coverage Results" MODIFIED="1551244252579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/32_bf_rk" />
     <SUITE FILE_PATH="coverage/python_code$binary_heap.coverage" NAME="binary_heap Coverage Results" MODIFIED="1550136785329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/28_binary_heap" />
     <SUITE FILE_PATH="coverage/python_code$Nosetests_for_sort_O1_test_sort.coverage" NAME="Nosetests for sort_O1.test_sort Coverage Results" MODIFIED="1545101398510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/code$py_test_in_array_op_py.coverage" NAME="py.test in array_op.py Coverage Results" MODIFIED="1544756459515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05_array" />
     <SUITE FILE_PATH="coverage/python_code$01.coverage" NAME="01 Coverage Results" MODIFIED="1553332652205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
     <SUITE FILE_PATH="coverage/python_code$01bag.coverage" NAME="01bag Coverage Results" MODIFIED="1553503199729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40_dynamic_programming" />
     <SUITE FILE_PATH="coverage/python_code$bfs_dfs.coverage" NAME="bfs_dfs Coverage Results" MODIFIED="1550726134656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31_bfs_dfs" />
-    <SUITE FILE_PATH="coverage/python_code$py_test_for_sort_test.coverage" NAME="py.test for sort.test Coverage Results" MODIFIED="1545100861298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$yh_triangle.coverage" NAME="yh_triangle Coverage Results" MODIFIED="1553508576892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40_dynamic_programming" />
-    <SUITE FILE_PATH="coverage/python_code$min_coin_count.coverage" NAME="min_coin_count Coverage Results" MODIFIED="1553664435617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/41_dynamic_programming02" />
-    <SUITE FILE_PATH="coverage/python_code$01_bag.coverage" NAME="01-bag Coverage Results" MODIFIED="1553329498595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
+    <SUITE FILE_PATH="coverage/python_code$min_coin_count.coverage" NAME="min_coin_count Coverage Results" MODIFIED="1553764170783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/41_dynamic_programming02" />
+    <SUITE FILE_PATH="coverage/python_code$longest_increasing_subsequence.coverage" NAME="longest_increasing_subsequence Coverage Results" MODIFIED="1553852783715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/42_dynamic_programming03" />
     <SUITE FILE_PATH="coverage/python_code$sortOnlogn.coverage" NAME="sortOnlogn Coverage Results" MODIFIED="1545285482536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$bsearch_sqrt.coverage" NAME="bsearch_sqrt Coverage Results" MODIFIED="1545660169843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
-    <SUITE FILE_PATH="coverage/python_code$linked_deque.coverage" NAME="linked_deque Coverage Results" MODIFIED="1545100995016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
-    <SUITE FILE_PATH="coverage/python_code$01bag_max_value.coverage" NAME="01bag-max_value Coverage Results" MODIFIED="1553508563548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40_dynamic_programming" />
     <SUITE FILE_PATH="coverage/python_code$newton_sqrt.coverage" NAME="newton_sqrt Coverage Results" MODIFIED="1545660562578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
-    <SUITE FILE_PATH="coverage/python_code$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1550196372185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_linked_list" />
     <SUITE FILE_PATH="coverage/python_code$01_bag_value.coverage" NAME="01-bag-value Coverage Results" MODIFIED="1553502425426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
     <SUITE FILE_PATH="coverage/python_code$sort_On.coverage" NAME="sort_On Coverage Results" MODIFIED="1545655938946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
     <SUITE FILE_PATH="coverage/python_code$merge_sort_counting.coverage" NAME="merge_sort_counting Coverage Results" MODIFIED="1553180737068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/38_divide_and_conquer" />
     <SUITE FILE_PATH="coverage/python_code$eight_queens.coverage" NAME="eight_queens Coverage Results" MODIFIED="1553251309737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
-    <SUITE FILE_PATH="coverage/python_code$py_test_in_sort_py.coverage" NAME="py.test in sort_fn.py Coverage Results" MODIFIED="1545101132805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$regex.coverage" NAME="regex Coverage Results" MODIFIED="1553332670410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
     <SUITE FILE_PATH="coverage/code$simple_browser.coverage" NAME="simple_browser Coverage Results" MODIFIED="1544766548818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/08_stack" />
     <SUITE FILE_PATH="coverage/python_code$array_deque.coverage" NAME="array_deque Coverage Results" MODIFIED="1544850976850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
     <SUITE FILE_PATH="coverage/code$array_deque.coverage" NAME="array_deque Coverage Results" MODIFIED="1544767783844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
     <SUITE FILE_PATH="coverage/python_code$sortOnlogn__1_.coverage" NAME="sortOnlogn (1) Coverage Results" MODIFIED="1545287523591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$char_num_sort.coverage" NAME="char_num_sort Coverage Results" MODIFIED="1550627321398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
     <SUITE FILE_PATH="coverage/python_code$circle_deque.coverage" NAME="circle_deque Coverage Results" MODIFIED="1544851748019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
-    <SUITE FILE_PATH="coverage/python_code$01_bag__1_.coverage" NAME="01-bag (1) Coverage Results" MODIFIED="1553486339420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
     <SUITE FILE_PATH="coverage/python_code$utils.coverage" NAME="utils Coverage Results" MODIFIED="1545277616569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
-    <SUITE FILE_PATH="coverage/python_code$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1551244134911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_binarytree" />
     <SUITE FILE_PATH="coverage/python_code$bsearch_rec.coverage" NAME="bsearch_rec Coverage Results" MODIFIED="1545816667784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
-    <SUITE FILE_PATH="coverage/python_code$Nosetests_in_sort_O1_py.coverage" NAME="Nosetests in sort_O1.py Coverage Results" MODIFIED="1545101364229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/python_code$bsearch.coverage" NAME="bsearch Coverage Results" MODIFIED="1545813716169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
+    <SUITE FILE_PATH="coverage/python_code$rk.coverage" NAME="rk Coverage Results" MODIFIED="1551245632741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/32_bf_rk" />
+    <SUITE FILE_PATH="coverage/python_code$table_min_dist.coverage" NAME="table_min_dist Coverage Results" MODIFIED="1553659222234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/41_dynamic_programming02" />
+    <SUITE FILE_PATH="coverage/python_code$levenshtein_dist.coverage" NAME="levenshtein_dist Coverage Results" MODIFIED="1553840345382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/42_dynamic_programming03" />
+    <SUITE FILE_PATH="coverage/python_code$sort_On2.coverage" NAME="sort_On2 Coverage Results" MODIFIED="1545278615188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$full_permutation.coverage" NAME="full_permutation Coverage Results" MODIFIED="1550539055242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/27_recursive_tree" />
+    <SUITE FILE_PATH="coverage/python_code$largest_k_number.coverage" NAME="largest_k_number Coverage Results" MODIFIED="1552488202004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$bf.coverage" NAME="bf Coverage Results" MODIFIED="1551244252579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/32_bf_rk" />
+    <SUITE FILE_PATH="coverage/python_code$py_test_for_sort_test.coverage" NAME="py.test for sort.test Coverage Results" MODIFIED="1545100861298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$yh_triangle.coverage" NAME="yh_triangle Coverage Results" MODIFIED="1553508576892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40_dynamic_programming" />
+    <SUITE FILE_PATH="coverage/python_code$01_bag.coverage" NAME="01-bag Coverage Results" MODIFIED="1553329498595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
+    <SUITE FILE_PATH="coverage/python_code$bsearch_sqrt.coverage" NAME="bsearch_sqrt Coverage Results" MODIFIED="1545660169843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
+    <SUITE FILE_PATH="coverage/python_code$linked_deque.coverage" NAME="linked_deque Coverage Results" MODIFIED="1545100995016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09_deque" />
+    <SUITE FILE_PATH="coverage/python_code$01bag_max_value.coverage" NAME="01bag-max_value Coverage Results" MODIFIED="1553508563548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40_dynamic_programming" />
+    <SUITE FILE_PATH="coverage/python_code$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1550196372185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_linked_list" />
+    <SUITE FILE_PATH="coverage/python_code$common_substring.coverage" NAME="common_substring Coverage Results" MODIFIED="1553842590818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/42_dynamic_programming03" />
+    <SUITE FILE_PATH="coverage/python_code$py_test_in_sort_py.coverage" NAME="py.test in sort_fn.py Coverage Results" MODIFIED="1545101132805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$regex.coverage" NAME="regex Coverage Results" MODIFIED="1553332670410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
+    <SUITE FILE_PATH="coverage/python_code$char_num_sort.coverage" NAME="char_num_sort Coverage Results" MODIFIED="1550627321398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
+    <SUITE FILE_PATH="coverage/python_code$01_bag__1_.coverage" NAME="01-bag (1) Coverage Results" MODIFIED="1553486339420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
+    <SUITE FILE_PATH="coverage/python_code$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1551244134911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_binarytree" />
+    <SUITE FILE_PATH="coverage/python_code$Nosetests_in_sort_O1_py.coverage" NAME="Nosetests in sort_O1.py Coverage Results" MODIFIED="1545101364229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="2017571463">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="65" />
+          <entry key="py" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="65" />
+          <entry key="Python" value="75" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="19584" />
+          <entry key="py" value="22900" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="19584" />
+          <entry key="Python" value="22900" />
         </counts>
       </usages-collector>
     </session>
@@ -112,19 +112,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/39_back_track/01-bag_mem.py">
+        <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/39_back_track/min_dist_square.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            <state relative-caret-position="1098">
+              <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+              <folding>
+                <marker date="1553834355347" expanded="true" signature="143:148" ph="..." />
+                <marker date="1553834355347" expanded="true" signature="222:865" ph="..." />
+                <marker date="1553834355347" expanded="true" signature="921:1685" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,7 +128,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_dist.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1029">
+            <state relative-caret-position="345">
               <caret line="49" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <marker date="1553657064795" expanded="true" signature="586:1024" ph="..." />
@@ -141,36 +137,41 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/39_back_track/01-bag_mem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py">
+        <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="216">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/common_substring.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
               <folding>
-                <marker date="1553664473764" expanded="true" signature="65:70" ph="..." />
-                <marker date="1553664473764" expanded="true" signature="501:1527" ph="..." />
+                <marker date="1553842590806" expanded="true" signature="64:69" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/40_dynamic_programming01/01bag.py">
+        <entry file="file://$PROJECT_DIR$/38_divide_and_conquer/merge_sort_counting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="777">
-              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/40_dynamic_programming01/01bag-max_value.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1344">
-              <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
-              <folding>
-                <marker date="1553505893520" expanded="true" signature="127:132" ph="..." />
-              </folding>
+            <state relative-caret-position="672">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -229,6 +230,8 @@
       <find>/</find>
       <find>print</find>
       <find>DFS</find>
+      <find>5 9</find>
+      <find>6 5</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -237,9 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/09_deque/arraydeque.py" />
-        <option value="$PROJECT_DIR$/08_stack/linked_stack.py" />
-        <option value="$PROJECT_DIR$/09_deque/linked_deque.py" />
         <option value="$PROJECT_DIR$/11_sorts/bubble_sort.py" />
         <option value="$PROJECT_DIR$/11_sorts/sort.py" />
         <option value="$PROJECT_DIR$/11_sorts/sort_new.py" />
@@ -288,6 +288,9 @@
         <option value="$PROJECT_DIR$/39_back_track/min_dist_square.py" />
         <option value="$PROJECT_DIR$/41_dynamic_programming02/min_dist.py" />
         <option value="$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py" />
+        <option value="$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py" />
+        <option value="$PROJECT_DIR$/42_dynamic_programming03/common_substring.py" />
+        <option value="$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py" />
       </list>
     </option>
   </component>
@@ -310,7 +313,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -413,15 +415,21 @@
               <item name="python-code" type="462c0819:PsiDirectoryNode" />
               <item name="41_dynamic_programming02" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-code" type="462c0819:PsiDirectoryNode" />
+              <item name="42_dynamic_programming03" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/BGI/考核/程序考核/谷胜强" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../笔试题目/剑指 offer-python" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
@@ -448,8 +456,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.min_coin_count">
-    <configuration name="01bag-max_value" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.longest_increasing_subsequence">
+    <configuration name="common_substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -457,12 +465,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/40_dynamic_programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/42_dynamic_programming03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40_dynamic_programming/01bag-max_value.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/42_dynamic_programming03/common_substring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="levenshtein_dist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/42_dynamic_programming03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="longest_increasing_subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/42_dynamic_programming03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -493,28 +545,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="min_dist_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/39_back_track" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39_back_track/min_dist_square.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="table_min_dist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -537,42 +567,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="yh_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/40_dynamic_programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40_dynamic_programming/yh_triangle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.01bag-max_value" />
-      <item itemvalue="Python.yh_triangle" />
-      <item itemvalue="Python.min_dist_square" />
       <item itemvalue="Python.table_min_dist" />
       <item itemvalue="Python.min_coin_count" />
+      <item itemvalue="Python.levenshtein_dist" />
+      <item itemvalue="Python.common_substring" />
+      <item itemvalue="Python.longest_increasing_subsequence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.longest_increasing_subsequence" />
+        <item itemvalue="Python.common_substring" />
+        <item itemvalue="Python.levenshtein_dist" />
         <item itemvalue="Python.min_coin_count" />
         <item itemvalue="Python.table_min_dist" />
-        <item itemvalue="Python.min_dist_square" />
-        <item itemvalue="Python.yh_triangle" />
-        <item itemvalue="Python.01bag-max_value" />
       </list>
     </recent_temporary>
   </component>
@@ -625,12 +633,12 @@
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17623281" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25545675" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3139535" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3139535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -656,9 +664,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11_sorts/utils.py" />
-    <entry file="file://$PROJECT_DIR$/11_sorts/sortOnlogn.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-418742156/itertools.py" />
     <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-418742156/builtins.py" />
     <entry file="file://$PROJECT_DIR$/17_skiplist/skiplist.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -823,13 +828,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/38_divide_and_conquer/merge_sort_counting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/12_sorts/largest_k_number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -838,13 +836,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/39_back_track/01.py" />
-    <entry file="file://$PROJECT_DIR$/39_back_track/regex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/27_recursive_tree/full_permutation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -856,13 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2037">
           <caret line="97" column="49" selection-start-line="97" selection-start-column="49" selection-end-line="97" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/40_dynamic_programming01/yh_triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
@@ -880,41 +864,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/39_back_track/eight_queens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/750534584/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="4886" column="11" lean-forward="true" selection-start-line="4886" selection-start-column="11" selection-end-line="4886" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/39_back_track/01-bag_mem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/39_back_track/min_dist_square.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_dist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1029">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <marker date="1553657064795" expanded="true" signature="586:1024" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -929,9 +882,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1344">
           <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39_back_track/min_dist_square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39_back_track/regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/40_dynamic_programming01/yh_triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
           <folding>
-            <marker date="1553505893520" expanded="true" signature="127:132" ph="..." />
+            <marker date="1553764170770" expanded="true" signature="93:98" ph="..." />
+            <marker date="1553764170770" expanded="true" signature="535:2280" ph="..." />
+            <marker date="1553764170770" expanded="true" signature="1659:2280" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39_back_track/eight_queens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -967,14 +957,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py">
+    <entry file="file://$PROJECT_DIR$/38_divide_and_conquer/merge_sort_counting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="672">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/common_substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
           <folding>
-            <marker date="1553664473764" expanded="true" signature="65:70" ph="..." />
-            <marker date="1553664473764" expanded="true" signature="501:1527" ph="..." />
+            <marker date="1553842590806" expanded="true" signature="64:69" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1098">
+          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <folding>
+            <marker date="1553834355347" expanded="true" signature="143:148" ph="..." />
+            <marker date="1553834355347" expanded="true" signature="222:865" ph="..." />
+            <marker date="1553834355347" expanded="true" signature="921:1685" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/39_back_track/01-bag_mem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_dist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <marker date="1553657064795" expanded="true" signature="586:1024" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
