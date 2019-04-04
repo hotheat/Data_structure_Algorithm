@@ -65,7 +65,7 @@ class SearchTree(object):
         """
         p = self.root
         parent = None
-        # 寻找要删除的节点
+        # 寻找要删除的节点和它的父节点
         while p is not None and p.value != value:
             parent = p
             if value > p.value:

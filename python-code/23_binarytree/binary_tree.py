@@ -24,7 +24,7 @@ def in_order(root):
         yield from in_order(root.right)
 
 
-# 后序遍历，
+# 后序遍历，左子树，右子树，值
 def post_order(root):
     if root:
         yield from post_order(root.left)
@@ -43,13 +43,26 @@ def level_order(root):
         while len(node_deque) > 0:
             tmp, l = node_deque.popleft()
             yield tmp.value, l
-            level = l+1
+            level = l + 1
             if tmp.left:
                 node_deque.append((tmp.left, level))
             if tmp.right:
                 node_deque.append((tmp.right, level))
     else:
         yield None, 0
+
+
+def tree_height(node):
+    """
+    返回二叉树高度
+    :param node:
+    :return:
+    """
+    if node is None:
+        return 0
+    hleft = tree_height(node.left)
+    hright = tree_height(node.right)
+    return max(hleft, hright) + 1
 
 
 if __name__ == '__main__':
@@ -61,9 +74,10 @@ if __name__ == '__main__':
     sec_F = TreeNode('F')
     root.left, root.right = first_B, first_C
     first_B.left, first_B.right = sec_D, sec_E
-    first_C.left,  = sec_F,
+    first_C.left, = sec_F,
 
     print(list(pre_order(root)))
     print(list(in_order(root)))
     print(list(post_order(root)))
     print(list(level_order(root)))
+    print(tree_height(root))

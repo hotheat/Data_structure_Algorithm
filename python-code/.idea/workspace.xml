@@ -7,7 +7,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a32f9888-6079-46d6-93e7-97f033f10533" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_binarytree/binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/23_binarytree/binary_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_search_tree/search_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_search_tree/search_tree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +30,7 @@
     <SUITE FILE_PATH="coverage/python_code$01bag.coverage" NAME="01bag Coverage Results" MODIFIED="1553503199729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/40_dynamic_programming" />
     <SUITE FILE_PATH="coverage/python_code$bfs_dfs.coverage" NAME="bfs_dfs Coverage Results" MODIFIED="1550726134656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31_bfs_dfs" />
     <SUITE FILE_PATH="coverage/python_code$min_coin_count.coverage" NAME="min_coin_count Coverage Results" MODIFIED="1553764170783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/41_dynamic_programming02" />
-    <SUITE FILE_PATH="coverage/python_code$longest_increasing_subsequence.coverage" NAME="longest_increasing_subsequence Coverage Results" MODIFIED="1553952401299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/42_dynamic_programming03" />
+    <SUITE FILE_PATH="coverage/python_code$longest_increasing_subsequence.coverage" NAME="longest_increasing_subsequence Coverage Results" MODIFIED="1554362609083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/42_dynamic_programming03" />
     <SUITE FILE_PATH="coverage/python_code$sortOnlogn.coverage" NAME="sortOnlogn Coverage Results" MODIFIED="1545285482536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
     <SUITE FILE_PATH="coverage/python_code$newton_sqrt.coverage" NAME="newton_sqrt Coverage Results" MODIFIED="1545660562578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_bsearch" />
     <SUITE FILE_PATH="coverage/python_code$01_bag_value.coverage" NAME="01-bag-value Coverage Results" MODIFIED="1553502425426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
@@ -63,47 +64,48 @@
     <SUITE FILE_PATH="coverage/python_code$regex.coverage" NAME="regex Coverage Results" MODIFIED="1553332670410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
     <SUITE FILE_PATH="coverage/python_code$char_num_sort.coverage" NAME="char_num_sort Coverage Results" MODIFIED="1550627321398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13_sorts" />
     <SUITE FILE_PATH="coverage/python_code$01_bag__1_.coverage" NAME="01-bag (1) Coverage Results" MODIFIED="1553486339420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/39_back_track" />
-    <SUITE FILE_PATH="coverage/python_code$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1551244134911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_binarytree" />
+    <SUITE FILE_PATH="coverage/python_code$binary_tree.coverage" NAME="binary_tree Coverage Results" MODIFIED="1554362614357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/23_binarytree" />
     <SUITE FILE_PATH="coverage/python_code$Nosetests_in_sort_O1_py.coverage" NAME="Nosetests in sort_O1.py Coverage Results" MODIFIED="1545101364229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_sorts" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="2017571463">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="27" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="33" />
+          <entry key="project.opened" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="75" />
+          <entry key="py" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="75" />
+          <entry key="Python" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="23324" />
+          <entry key="py" value="23479" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="23324" />
+          <entry key="Python" value="23479" />
         </counts>
       </usages-collector>
     </session>
@@ -111,49 +113,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py">
+        <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1344">
-              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+            <state relative-caret-position="-225">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
-                <marker date="1553834355347" expanded="true" signature="143:148" ph="..." />
-                <marker date="1553834355347" expanded="true" signature="222:865" ph="..." />
-                <marker date="1553834355347" expanded="true" signature="921:1685" ph="..." />
+                <marker date="1554366601124" expanded="true" signature="1198:1345" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_dist.py">
+        <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1029">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <marker date="1553657064795" expanded="true" signature="586:1024" ph="..." />
-              </folding>
+            <state relative-caret-position="-225">
+              <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/39_back_track/01-bag_mem.py">
+        <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-            </state>
+            <state relative-caret-position="-3024" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py">
+        <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <marker date="1553952498833" expanded="true" signature="712:917" ph="..." />
-                <marker date="1553952498833" expanded="true" signature="916:917" ph="..." />
-              </folding>
+            <state relative-caret-position="84">
+              <caret line="112" column="28" lean-forward="true" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -235,6 +226,7 @@
       <find>DFS</find>
       <find>5 9</find>
       <find>6 5</find>
+      <find>max</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -271,8 +263,6 @@
         <option value="$PROJECT_DIR$/15_bsearch02/search_rotate_sorted.py" />
         <option value="E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图/graph.py" />
         <option value="$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py" />
-        <option value="$PROJECT_DIR$/24_search_tree/search_tree.py" />
-        <option value="$PROJECT_DIR$/23_binarytree/binary_tree.py" />
         <option value="$PROJECT_DIR$/32_bf_rk/bf.py" />
         <option value="$PROJECT_DIR$/32_bf_rk/rk.py" />
         <option value="$PROJECT_DIR$/12_sorts/sortOnlogn.py" />
@@ -294,6 +284,8 @@
         <option value="$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py" />
         <option value="$PROJECT_DIR$/42_dynamic_programming03/common_substring.py" />
         <option value="$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py" />
+        <option value="$PROJECT_DIR$/23_binarytree/binary_tree.py" />
+        <option value="$PROJECT_DIR$/24_search_tree/search_tree.py" />
       </list>
     </option>
   </component>
@@ -459,7 +451,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.longest_increasing_subsequence">
+  <component name="RunManager" selected="Python.binary_tree">
+    <configuration name="binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/23_binarytree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23_binarytree/binary_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="common_substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -548,42 +562,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="table_min_dist" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/41_dynamic_programming02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Data\Study\Data Structure and Algorithm\JikeExercise\python-code\41_dynamic_programming02\min_dist.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.table_min_dist" />
       <item itemvalue="Python.min_coin_count" />
       <item itemvalue="Python.levenshtein_dist" />
       <item itemvalue="Python.common_substring" />
       <item itemvalue="Python.longest_increasing_subsequence" />
+      <item itemvalue="Python.binary_tree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.binary_tree" />
         <item itemvalue="Python.longest_increasing_subsequence" />
         <item itemvalue="Python.common_substring" />
         <item itemvalue="Python.levenshtein_dist" />
         <item itemvalue="Python.min_coin_count" />
-        <item itemvalue="Python.table_min_dist" />
       </list>
     </recent_temporary>
   </component>
@@ -636,12 +628,12 @@
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19967663" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20937753" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3139535" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3139535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -763,11 +755,6 @@
     </entry>
     <entry file="file://E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图/dfs_作业.py" />
     <entry file="file://E:/程序员/机器学习/SOTON/暑期课程/第二章-背包与图/graph.py" />
-    <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1134" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/15_bsearch02/bsearch_variants.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1617">
@@ -782,20 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2898">
-          <caret line="138" column="37" selection-start-line="138" selection-start-column="37" selection-end-line="138" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06_linked_list/Single_Linked_List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -807,13 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1176">
-          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -939,9 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1029">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <marker date="1553657064795" expanded="true" signature="586:1024" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -949,6 +912,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1001,14 +971,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py">
+    <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="-225">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3024" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
-            <marker date="1553952498833" expanded="true" signature="712:917" ph="..." />
-            <marker date="1553952498833" expanded="true" signature="916:917" ph="..." />
+            <marker date="1554366601124" expanded="true" signature="1198:1345" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="112" column="28" lean-forward="true" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
         </state>
       </provider>
     </entry>
