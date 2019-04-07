@@ -53,7 +53,6 @@ def min_coin_count_onedim2(coin_lst, total_value):
     # value 为 0 时，需要 0 个硬币
     dp[0] = 0
     for i in range(1, total_value + 1):
-        # 每次把最小值初始化成 最大值
         for v in coin_lst:
             if i >= v:
                 dp[i] = min(dp[i], 1 + dp[i - v])

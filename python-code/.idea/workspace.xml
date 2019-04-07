@@ -7,8 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a32f9888-6079-46d6-93e7-97f033f10533" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/23_binarytree/binary_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/23_binarytree/binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24_search_tree/search_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_search_tree/search_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,29 +70,29 @@
     <session id="2017571463">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="32" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="9" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="5" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="5" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.8" value="6" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="36" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="79" />
+          <entry key="py" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="79" />
+          <entry key="Python" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -113,38 +112,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
+        <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding>
-                <marker date="1554366601124" expanded="true" signature="1198:1345" ph="..." />
-              </folding>
+            <state relative-caret-position="84">
+              <caret line="112" column="28" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py">
+        <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-225">
-              <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+            <state relative-caret-position="483">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3024" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
+        <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="112" column="28" lean-forward="true" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
+            <state relative-caret-position="441">
+              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -152,8 +150,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/common_substring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+            <state relative-caret-position="405">
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
                 <marker date="1553842590806" expanded="true" signature="64:69" ph="..." />
               </folding>
@@ -280,12 +278,12 @@
         <option value="$PROJECT_DIR$/41_dynamic_programming02/table_min_dist.py" />
         <option value="$PROJECT_DIR$/39_back_track/min_dist_square.py" />
         <option value="$PROJECT_DIR$/41_dynamic_programming02/min_dist.py" />
-        <option value="$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py" />
         <option value="$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py" />
         <option value="$PROJECT_DIR$/42_dynamic_programming03/common_substring.py" />
         <option value="$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py" />
         <option value="$PROJECT_DIR$/23_binarytree/binary_tree.py" />
         <option value="$PROJECT_DIR$/24_search_tree/search_tree.py" />
+        <option value="$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py" />
       </list>
     </option>
   </component>
@@ -295,7 +293,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="948" />
     <option name="width" value="981" />
     <option name="height" value="1092" />
@@ -626,14 +624,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20937753" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21584478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3139535" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3139535" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -875,29 +872,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/39_back_track/eight_queens.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1344">
-          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-          <folding>
-            <marker date="1553834355347" expanded="true" signature="143:148" ph="..." />
-            <marker date="1553834355347" expanded="true" signature="222:865" ph="..." />
-            <marker date="1553834355347" expanded="true" signature="921:1685" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -915,22 +893,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py">
+    <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        <state relative-caret-position="399">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/common_substring.py">
+    <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-          <folding>
-            <marker date="1553842590806" expanded="true" signature="64:69" ph="..." />
-          </folding>
+        <state relative-caret-position="1176">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs2.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/38_divide_and_conquer/merge_sort_counting.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -971,32 +949,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs.py">
+    <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        <state relative-caret-position="84">
+          <caret line="112" column="28" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/31_bfs_dfs/bfs_dfs2.py">
+    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/levenshtein_dist.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3024" />
+        <state relative-caret-position="534">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23_binarytree/binary_tree.py">
+    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/common_substring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="405">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding>
-            <marker date="1554366601124" expanded="true" signature="1198:1345" ph="..." />
+            <marker date="1553842590806" expanded="true" signature="64:69" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/24_search_tree/search_tree.py">
+    <entry file="file://$PROJECT_DIR$/42_dynamic_programming03/longest_increasing_subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="112" column="28" lean-forward="true" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
+        <state relative-caret-position="483">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/41_dynamic_programming02/min_coin_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
         </state>
       </provider>
     </entry>
