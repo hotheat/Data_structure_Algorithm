@@ -11,7 +11,7 @@ def eight_queen(row):
         # 成功的话就是一种方法
         print(solution_lst)
         return
-    # 每行都有 8 种方法
+    # 每列都有 8 种方法
     for col in range(matrix_num):
         if is_valid(row, col):
             solution_lst[row] = col  # 棋子放在第 r 行第 c 列

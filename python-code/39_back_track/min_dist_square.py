@@ -12,10 +12,10 @@ def min_dist_square(row, col, dist, weight_matrix):
         min_d = min(dist, min_d)
         return
 
-    if row < len(weight_matrix)-1:  # 向下走，更新 row+1, col
+    if row < len(weight_matrix) - 1:  # 向下走，更新 row+1, col
         min_dist_square(row + 1, col, dist + weight_matrix[row][col], weight_matrix)
 
-    if col < len(weight_matrix)-1:  # 向右走，更新 row, col+1
+    if col < len(weight_matrix) - 1:  # 向右走，更新 row, col+1
         min_dist_square(row, col + 1, dist + weight_matrix[row][col], weight_matrix)
 
 
